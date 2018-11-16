@@ -193,4 +193,7 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# Junhyuck Woo Test directory
+./test/*
+
 # End of https://www.gitignore.io/api/macos,python,windows,jupyternotebook
