@@ -194,6 +194,6 @@ $RECYCLE.BIN/
 *.lnk
 
 # Junhyuck Woo Test directory
-./test/*
+test/*
 
 # End of https://www.gitignore.io/api/macos,python,windows,jupyternotebook
